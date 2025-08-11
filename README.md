@@ -3,7 +3,7 @@
 ### If you like this pls give me a star 🙏
 ### i Recomand hosting your self since there is multiple people using vercel which makes it slower so uh yeah pls host it ur self it will be more faster
 
-## Want More Features? Well Even tho the Free one on github is still good but want a API that updates Realtime Well for only 10$/Lifetime you can have a API access to a paid with Realtime Updates with More Features | Our New Feature is the Forever Pack Predictor | To buy Join this Server [DISCORD](https://discord.gg/bf7MFhYpXb)
+## Want More Features? Well Even tho the Free one on github is still good but want a API that updates Realtime Well for only 10$/Lifetime you can have a API access to a paid with Realtime Updates with More Features | Our New Feature is the Stock & Foreverpack Predictor | To buy Join this Server [DISCORD](https://discord.gg/bf7MFhYpXb)
 
 For the Confustion the github one is still being updated and it will remain free but if you want a Premium API with me hosting it without Scrapping from other api 
 
