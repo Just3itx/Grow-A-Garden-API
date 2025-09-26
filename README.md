@@ -5,6 +5,12 @@
 
 ## Want More Features? Well Even tho the Free one on github is still good but want a API that updates Realtime Well for only 10$/Lifetime you can have a API access to a paid with Realtime Updates with More Features | Our New Feature is the Stock & Foreverpack Predictor | To buy Join this Server [DISCORD](https://discord.gg/bf7MFhYpXb)
 
+Games the paid Api support
+- bloxfruit
+- Grow a Garden
+- Plant Vs Brainrot
+- Steal a Brainrot
+
 For the Confustion the github one is still being updated and it will remain free but if you want a Premium API with me hosting it without Scrapping from other api 
 
 ### [CHANGELOGS](https://github.com/Just3itx/Grow-A-Garden-API/blob/main/CHANGELOG.md)
